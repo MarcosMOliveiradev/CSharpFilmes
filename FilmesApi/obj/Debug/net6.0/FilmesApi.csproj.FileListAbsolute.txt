@@ -30,3 +30,4 @@ C:\Users\suporte\Desktop\Estudos\C#\FilmesAPI\FilmesApi\FilmesApi\obj\Debug\net6
 C:\Users\suporte\Desktop\Estudos\C#\FilmesAPI\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.pdb
 C:\Users\suporte\Desktop\Estudos\C#\FilmesAPI\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.genruntimeconfig.cache
 C:\Users\suporte\Desktop\Estudos\C#\FilmesAPI\FilmesApi\FilmesApi\obj\Debug\net6.0\ref\FilmesApi.dll
+C:\Users\suporte\Desktop\Estudos\C#\FilmesAPI\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.sourcelink.json
